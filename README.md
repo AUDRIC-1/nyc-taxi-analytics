@@ -1,1 +1,26 @@
-# nyc-taxi-analytics
+
+# 🚕 NYC Taxi Analytics Dashboard
+
+A complete full-stack application for analyzing New York City taxi trip data with custom algorithms and interactive visualizations.
+
+## 🎯 Features
+
+- **Data Processing**: Automated cleaning and validation of raw taxi data
+- **Custom Algorithms**: Manual sorting and aggregation implementations
+- **Interactive Dashboard**: Real-time charts and insights
+- **RESTful API**: Flask backend with comprehensive endpoints
+- **Database Design**: SQLite with optimized indexing
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Python 3.7+
+- Modern web browser
+
+### Installation & Setup
+
+1. **Extract all files to a folder**
+
+2. **Install Python dependencies**:
+   ```bash
+   pip install flask flask-cors
