@@ -23,3 +23,9 @@ A complete full-stack application for analyzing New York City taxi trip data wit
 2. **Install Python dependencies**:
    ```bash
    pip install flask flask-cors
+
+   
+
+https://docs.google.com/document/d/1UNW2Vx9jp1wYsHymmcX6J-pHJk41zANferUJCTb-1xU/edit?usp=sharing
+
+
