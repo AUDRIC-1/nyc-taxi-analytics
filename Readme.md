@@ -1,8 +1,8 @@
-# 🚕 NYC Taxi Analytics Dashboard
+#  NYC Taxi Analytics Dashboard
 
 A complete full-stack application for analyzing New York City taxi trip data with custom algorithms and interactive visualizations.
 
-## 🎯 Features
+##  Features
 
 - **Data Processing**: Automated cleaning and validation of raw taxi data
 - **Custom Algorithms**: Manual sorting and aggregation implementations
@@ -10,7 +10,7 @@ A complete full-stack application for analyzing New York City taxi trip data wit
 - **RESTful API**: Flask backend with comprehensive endpoints
 - **Database Design**: SQLite with optimized indexing
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Python 3.7+
@@ -27,5 +27,6 @@ A complete full-stack application for analyzing New York City taxi trip data wit
    
 
 https://docs.google.com/document/d/1UNW2Vx9jp1wYsHymmcX6J-pHJk41zANferUJCTb-1xU/edit?usp=sharing
+
 
 
