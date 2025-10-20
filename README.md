@@ -28,5 +28,9 @@ A complete full-stack application for analyzing New York City taxi trip data wit
 
 https://docs.google.com/document/d/1UNW2Vx9jp1wYsHymmcX6J-pHJk41zANferUJCTb-1xU/edit?usp=sharing
 
+## VIDEO WORKTHOUGH/DEMOSTRATION
+https://drive.google.com/file/d/1581CiAJJb_FOL_TCUypqvWLVcm1zlp6L/view?usp=sharing
+
+
 
 
