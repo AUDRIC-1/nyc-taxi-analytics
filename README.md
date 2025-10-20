@@ -9,6 +9,13 @@ A complete full-stack application for analyzing New York City taxi trip data wit
 - **Interactive Dashboard**: Real-time charts and insights
 - **RESTful API**: Flask backend with comprehensive endpoints
 - **Database Design**: SQLite with optimized indexing
+## ⚙️ Backend Setup (Flask API)
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python app.py
+```
 
 ##  Quick Start
 
@@ -30,6 +37,7 @@ https://docs.google.com/document/d/1UNW2Vx9jp1wYsHymmcX6J-pHJk41zANferUJCTb-1xU/
 
 ## VIDEO WORKTHOUGH/DEMOSTRATION
 https://drive.google.com/file/d/1581CiAJJb_FOL_TCUypqvWLVcm1zlp6L/view?usp=sharing
+
 
 
 
